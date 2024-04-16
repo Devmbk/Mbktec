@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbktec 
+- 👋 Hi, I’m @Devmbk 
 - 👀 I’m interested in web development
 - 🌱 I am a full stack web developer
 - 💞️ I’m looking to collaborate on your projects
